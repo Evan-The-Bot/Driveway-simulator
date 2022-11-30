@@ -5,3 +5,7 @@ float CircleX, CircleY, CircleDiameter;
 float DuckX, DuckY, DuckD, Duck2X, Duck2Y, Duck2D; 
 float topX, topY, topExtent;
 Boolean landscape=false, portrait=false;
+float PacmanX, PacmanY, PacmanWidth, PacmanHeight;
+float waterX, waterY, waterD;
+color BlueL=#3287FA, BlueD=#1551E5, BlueB=#0FCDFF, Blue=#0FCDFF, Yellow=#FFE80F; 
+int waterR = int(waterD) * 1/2;
