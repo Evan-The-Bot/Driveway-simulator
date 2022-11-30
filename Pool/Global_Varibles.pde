@@ -1,15 +1,7 @@
-float CircleX, CircleY, CircleDiameter;
-float GlobeCubeX, GlobeCubeY, GlobeCubeWidth, GlobeCubeHeight;
-float topX, topY, topExtent;
 int appWidth, appHeight;
+float GlobeCubeX, GlobeCubeY, GlobeCubeWidth, GlobeCubeHeight;
+float centerX, centerY;
+float CircleX, CircleY, CircleDiameter;
+float DuckX, DuckY, DuckD, Duck2X, Duck2Y, Duck2D; 
+float topX, topY, topExtent;
 Boolean landscape=false, portrait=false;
-float centerX = appWidth * 1/2, centerY = appHeight * 1/2;
-void population() {
-GlobeCubeX = appHeight*1/2;
-GlobeCubeY = appHeight * 0;
-GlobeCubeWidth = appHeight;
-GlobeCubeHeight = GlobeCubeWidth;
-CircleX = appHeight ;
-CircleY = appHeight ;
-CircleDiameter = appHeight;
-}

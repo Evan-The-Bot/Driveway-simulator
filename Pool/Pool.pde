@@ -6,16 +6,16 @@ void setup () {
 //
 size(1920,1080);
 //
-displayOrientation();
-//
 appWidth = width;
 appHeight = height;
+//
+displayOrientation();
 //
 population();
 //
 globeSetup();
 duck();
-floaty();
+Pacman();
 poolnoodle();
 duck2();
 water();
