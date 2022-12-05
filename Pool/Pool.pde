@@ -26,7 +26,7 @@ void mousePressed () {
 }
 
 void keyPressed () {
-//error
+/*error
   if (key=='c' | key=='C') {
     if (REd==true) {
     } else if (ORange==true) {
@@ -39,17 +39,16 @@ void keyPressed () {
     } else if (WHite==true) {
     } else {}
   }
-}
-//error
+} error
+*/
+if (key=='c'| key=='C') { X + 1}
         if (X=1) { REd==true }
-        if (X=2)
-        if (X=3)
-        if (X=4)
-        if (X=5)
-        if (X=6)
-        if (X=7)
-        if (X=8)
-        if (X=9)
-                                                        
-  if (key=='c'| key=='C') {
-  }
+        if (X=2) { ORange==true }
+        if (X=3) { YEllow==true }
+        if (X=4) { GReen==true }
+        if (X=5) { BLue==true }
+        if (X=6) { VIolet==true }
+        if (X=7) { PInk==true }
+        if (X=8) { GRey==true }
+        if (X=9) { WHite==true }
+        if (X>=10) { X=1}                  

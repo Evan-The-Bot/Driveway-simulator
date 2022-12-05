@@ -11,3 +11,4 @@ color WaterColour, Yellow=#FFE80F, resetWhite=#FFFFFF;
 int waterR;
 int reset=1;
 boolean nightMode=false, REd=false, ORange=false, YEllow=false, GReen=false, BLue=false, VIolet=false, WHite=false, GRey=false, PInk=false;
+int X=0;
