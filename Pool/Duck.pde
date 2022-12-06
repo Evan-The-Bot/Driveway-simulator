@@ -1,5 +1,4 @@
 void duck() {
-fill(Yellow);
- ellipse( DuckX, DuckY, DuckD, DuckD);
-
+  fill(Yellow);
+  ellipse( DuckX, DuckY, DuckD, DuckD);
 }

@@ -1,5 +1,0 @@
-void displayOrientation() {
-//
-landscape = true;
-//
-}
